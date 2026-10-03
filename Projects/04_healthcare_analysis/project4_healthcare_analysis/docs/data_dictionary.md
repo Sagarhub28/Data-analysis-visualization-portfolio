@@ -1,0 +1,12 @@
+# Data Dictionary
+- Patient_ID: synthetic patient identifier
+- Age: age in years
+- Gender: synthetic gender category
+- Condition: synthetic primary condition
+- Smoking_Status: synthetic smoking category
+- BMI: body mass index-style measure
+- Systolic_BP: systolic blood pressure-style measure
+- Cholesterol: cholesterol-style measure
+- Glucose: glucose-style measure
+- Annual_Visits: synthetic annual visit count
+- High_Risk: synthetic binary risk label

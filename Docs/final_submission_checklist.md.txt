@@ -1,0 +1,58 @@
+# Final Submission Checklist
+
+## Projects
+
+- [ ] Project 1 notebook complete
+- [ ] Project 2 notebook complete
+- [ ] Project 3 notebook complete
+- [ ] Project 4 notebook complete
+- [ ] Project 5 notebook complete
+
+## Reports
+
+- [ ] 5 PDF reports included
+- [ ] Reports open correctly
+- [ ] Findings are clearly explained
+- [ ] Recommendations are included
+
+## Visualizations
+
+- [ ] At least 15 visualizations
+- [ ] Charts have titles
+- [ ] Axes are labeled
+- [ ] Visualizations are readable
+
+## Code
+
+- [ ] Notebooks run from beginning to end
+- [ ] No broken file paths
+- [ ] No unnecessary errors
+- [ ] Requirements file included
+- [ ] Validation code included
+
+## Documentation
+
+- [ ] Main README
+- [ ] Project READMEs
+- [ ] Methodology
+- [ ] Data notes
+- [ ] Final checklist
+
+## GitHub
+
+- [ ] Repository created
+- [ ] Files uploaded
+- [ ] README displays correctly
+- [ ] Repository is organized
+- [ ] No personal/private files uploaded
+
+## Presentation
+
+- [ ] Portfolio presentation completed
+- [ ] Project 1 slide
+- [ ] Project 2 slide
+- [ ] Project 3 slide
+- [ ] Project 4 slide
+- [ ] Project 5 slide
+- [ ] Technical skills slide
+- [ ] Conclusion slide

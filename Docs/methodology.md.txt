@@ -1,0 +1,18 @@
+# Methodology
+
+The projects generally follow this workflow:
+
+1. Load the data
+2. Validate data quality
+3. Identify missing values and duplicates
+4. Clean the dataset
+5. Create derived variables
+6. Perform exploratory analysis
+7. Calculate descriptive statistics
+8. Analyze relationships
+9. Create visualizations
+10. Interpret results
+11. Document limitations
+12. Provide practical recommendations
+
+Statistical associations are not automatically interpreted as causal relationships.

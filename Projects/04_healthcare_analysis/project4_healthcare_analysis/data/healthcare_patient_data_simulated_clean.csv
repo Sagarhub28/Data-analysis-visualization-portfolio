@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Condition,Smoking_Status,BMI,Systolic_BP,Cholesterol,Glucose,Annual_Visits,High_Risk
+10001,24,Female,Healthy,Former,24.7,118,181.0,65.0,3,No
+10002,70,Male,Healthy,Current,24.3,162,210.0,106.0,5,No
+10003,62,Male,Healthy,Never,30.2,141,229.0,124.0,3,No
+10004,47,Female,Heart Disease,Never,30.4,137,196.0,101.0,4,No
+10005,47,Female,Heart Disease,Former,23.9,120,177.0,95.0,3,No
+10006,76,Male,Healthy,Never,24.6,163,198.0,95.0,4,No
+10007,23,Male,Diabetes,Former,29.1,144,138.0,142.0,5,Yes
+10008,65,Female,Healthy,Never,22.5,156,207.0,88.0,5,No
+10009,31,Female,Heart Disease,Never,24.5,143,199.0,81.0,6,No
+10010,24,Male,Hypertension,Former,26.9,116,230.0,100.0,2,No
+10011,53,Female,Hypertension,Never,31.3,145,175.0,71.0,5,No
+10012,84,Female,Healthy,Never,23.6,150,203.0,132.0,3,Yes
+10013,68,Female,Hypertension,Former,17.7,150,185.0,116.0,5,No
+10014,69,Female,Diabetes,Former,17.3,159,205.0,145.0,5,Yes
+10015,66,Female,Diabetes,Current,20.5,150,216.0,138.0,4,Yes
+10016,71,Female,Hypertension,Never,20.2,138,200.0,104.0,4,No
+10017,52,Female,Diabetes,Never,25.8,126,215.0,107.0,3,No
+10018,26,Female,Healthy,Current,26.6,109,166.0,89.0,4,No
+10019,75,Male,Hypertension,Never,23.1,162,227.0,93.0,7,No
+10020,48,Female,Healthy,Never,22.8,160,199.0,107.0,3,No
+10021,52,Male,Healthy,Never,24.4,155,189.0,113.0,6,No
+10022,43,Female,Asthma,Never,32.8,114,175.0,121.0,4,Yes
+10023,30,Female,Hypertension,Current,29.7,144,242.0,98.0,4,No
+10024,81,Male,Arthritis,Former,26.6,169,188.0,125.0,7,Yes
+10025,71,Male,Hypertension,Former,24.3,137,208.0,102.0,6,Yes
+10026,61,Female,Asthma,Never,24.4,142,177.0,96.0,4,No
+10027,45,Male,Healthy,Never,28.1,148,227.0,105.0,3,No
+10028,73,Female,Healthy,Never,29.3,159,224.0,101.0,5,No
+10029,55,Female,Healthy,Never,22.1,128,174.0,106.0,5,No
+10030,48,Female,Diabetes,Never,26.7,144,199.0,106.0,5,No
+10031,48,Male,Arthritis,Never,16.7,114,192.0,85.0,6,No
+10032,33,Male,Arthritis,Never,27.5,126,164.0,104.0,4,No
+10033,24,Male,Asthma,Never,30.2,135,189.0,105.0,2,No
+10034,55,Female,Arthritis,Former,25.2,142,200.0,85.0,6,No
+10035,78,Female,Hypertension,Never,35.2,153,211.0,120.0,5,Yes
+10036,22,Male,Diabetes,Never,22.3,131,168.0,105.0,4,No
+10037,76,Male,Heart Disease,Former,27.5,166,225.0,109.0,6,Yes
+10038,74,Male,Hypertension,Former,26.3,170,209.0,131.0,5,Yes
+10039,36,Male,Hypertension,Former,26.0,142,180.0,108.0,3,No
+10040,60,Female,Healthy,Never,26.0,157,179.0,116.0,5,Yes
+10041,29,Male,Healthy,Former,27.0,134,215.0,123.0,2,Yes
+10042,69,Male,Heart Disease,Never,30.6,154,185.0,95.0,5,Yes
+10043,65,Male,Healthy,Never,33.1,149,208.0,89.0,6,No
+10044,42,Female,Healthy,Never,26.5,131,175.0,85.0,4,No
+10045,22,Male,Hypertension,Never,30.4,110,212.0,86.0,3,No
+10046,84,Male,Asthma,Never,23.1,150,188.0,74.0,5,No
+10047,48,Male,Asthma,Never,30.2,135,169.0,95.0,4,No
+10048,78,Female,Hypertension,Former,22.8,161,182.0,101.0,4,No
+10049,64,Male,Healthy,Never,31.7,164,204.0,117.0,4,No
+10050,70,Male,Asthma,Never,37.1,151,168.0,112.0,6,Yes
+10051,69,Female,Asthma,Never,25.9,162,188.0,97.0,6,No
+10052,31,Male,Hypertension,Never,16.0,141,123.0,102.0,4,Yes
+10053,42,Female,Diabetes,Never,23.9,131,188.0,132.0,5,Yes
+10054,49,Female,Healthy,Never,32.4,145,175.0,87.0,3,No
+10055,51,Male,Hypertension,Never,29.2,139,152.0,92.0,3,Yes
+10056,20,Female,Diabetes,Former,27.7,135,194.0,77.0,2,No
+10057,55,Female,Diabetes,Current,31.3,149,168.0,108.0,3,No
+10058,28,Female,Heart Disease,Never,28.8,112,202.0,80.0,3,Yes
+10059,68,Male,Arthritis,Former,32.3,152,182.0,107.0,6,No
+10060,64,Female,Heart Disease,Current,30.9,166,254.0,89.0,4,Yes
+10061,80,Female,Hypertension,Current,33.8,158,234.0,102.0,4,No
+10062,68,Male,Diabetes,Former,28.2,155,175.0,110.0,7,Yes
+10063,42,Female,Healthy,Current,30.8,140,169.0,99.0,5,No
+10064,83,Male,Arthritis,Current,25.0,148,232.0,118.0,4,No
+10065,45,Male,Arthritis,Former,23.6,142,178.0,104.0,6,No
+10066,40,Male,Arthritis,Never,34.7,117,177.0,96.0,5,No
+10067,79,Male,Healthy,Never,27.5,150,237.0,85.0,5,No
+10068,43,Male,Hypertension,Never,30.4,148,165.0,87.0,4,No
+10069,23,Male,Asthma,Never,27.1,126,172.0,84.0,4,No
+10070,49,Male,Heart Disease,Never,23.7,135,220.0,93.0,4,No
+10071,72,Male,Diabetes,Never,26.6,158,221.0,132.0,5,No
+10072,30,Male,Healthy,Never,33.4,126,171.0,115.0,3,No
+10073,49,Male,Heart Disease,Never,29.2,139,190.0,112.0,4,No
+10074,26,Female,Healthy,Current,18.3,131,139.0,75.0,4,No
+10075,64,Male,Healthy,Never,25.5,140,171.0,115.0,6,No
+10076,50,Female,Heart Disease,Never,35.1,139,205.0,110.0,4,No
+10077,40,Female,Healthy,Former,25.5,129,178.0,83.0,4,Yes
+10078,33,Female,Arthritis,Current,17.9,111,187.0,107.0,4,Yes
+10079,56,Female,Healthy,Current,35.6,133,225.0,99.0,4,Yes
+10080,63,Female,Diabetes,Current,29.8,164,176.0,105.0,4,No
+10081,81,Male,Heart Disease,Current,26.2,162,221.0,118.0,5,Yes
+10082,47,Female,Heart Disease,Never,24.7,123,200.0,102.0,7,No
+10083,28,Female,Hypertension,Never,31.7,110,156.0,88.0,4,No
+10084,74,Female,Asthma,Never,23.9,153,237.0,107.0,5,Yes
+10085,60,Female,Healthy,Former,32.0,162,216.0,91.0,3,No
+10086,65,Female,Arthritis,Current,29.1,146,213.0,115.0,5,No
+10087,24,Male,Hypertension,Never,27.7,139,214.0,90.0,4,No
+10088,39,Female,Diabetes,Never,27.2,136,144.0,122.0,3,Yes
+10089,70,Female,Diabetes,Never,25.7,157,200.0,136.0,8,Yes
+10090,74,Female,Hypertension,Never,31.5,141,212.0,89.0,6,Yes
+10091,47,Male,Healthy,Never,22.3,147,164.0,84.0,5,No
+10092,72,Female,Asthma,Never,18.7,149,209.0,72.0,5,No
+10093,75,Female,Diabetes,Current,29.4,164,186.0,141.0,6,Yes
+10094,44,Female,Arthritis,Never,29.5,126,200.0,78.0,3,Yes
+10095,79,Female,Hypertension,Current,28.8,161,241.0,112.0,10,Yes
+10096,37,Female,Diabetes,Former,28.5,135,191.0,125.0,4,No
+10097,34,Female,Arthritis,Never,25.0,127,133.0,104.0,3,No
+10098,64,Male,Arthritis,Never,30.3,152,173.0,85.0,4,No
+10099,61,Female,Healthy,Former,26.3,143,208.0,102.0,6,Yes
+10100,27,Male,Arthritis,Never,24.2,118,173.0,118.0,4,No
+10101,74,Male,Asthma,Current,25.0,172,147.0,135.0,5,No
+10102,31,Female,Healthy,Never,36.2,139,205.0,109.0,3,No
+10103,72,Female,Healthy,Former,18.2,144,205.0,113.0,3,No
+10104,18,Female,Healthy,Former,28.9,125,147.0,72.0,2,No
+10105,72,Male,Healthy,Never,18.4,144,226.0,119.0,4,No
+10106,71,Female,Healthy,Never,26.0,139,185.0,104.0,4,No
+10107,71,Female,Healthy,Current,24.4,163,194.0,116.0,4,Yes
+10108,63,Female,Hypertension,Never,16.5,130,205.0,94.0,3,No
+10109,50,Female,Healthy,Never,28.4,149,230.0,97.0,4,No
+10110,65,Female,Asthma,Never,24.7,146,236.0,107.0,5,No
+10111,36,Female,Heart Disease,Never,16.4,128,197.0,99.0,4,No
+10112,71,Male,Arthritis,Former,30.5,157,212.0,115.0,5,No
+10113,55,Female,Healthy,Former,33.4,148,210.0,92.0,4,Yes
+10114,49,Female,Healthy,Never,33.7,129,157.0,78.0,2,No
+10115,52,Male,Diabetes,Current,28.2,148,213.0,150.0,3,Yes
+10116,56,Female,Healthy,Never,26.7,144,174.0,141.0,4,No
+10117,20,Female,Healthy,Never,32.9,107,176.0,96.0,6,No
+10118,27,Male,Diabetes,Never,34.6,123,167.0,94.0,5,No
+10119,34,Female,Hypertension,Current,31.9,146,198.0,82.0,4,No
+10120,25,Male,Hypertension,Never,22.0,144,174.0,99.0,3,No
+10121,47,Female,Healthy,Never,27.5,145,112.0,120.0,2,No
+10122,63,Female,Heart Disease,Never,28.6,134,210.0,85.0,3,No
+10123,62,Female,Healthy,Former,17.8,152,211.0,102.0,4,No
+10124,50,Female,Asthma,Never,28.8,148,198.0,103.0,5,Yes
+10125,76,Female,Healthy,Never,37.4,163,202.0,122.0,5,No
+10126,56,Male,Asthma,Former,29.6,151,231.0,96.0,6,No
+10127,23,Male,Healthy,Never,33.6,126,177.0,65.0,5,Yes
+10128,70,Female,Hypertension,Never,27.4,153,211.0,116.0,8,Yes
+10129,57,Male,Heart Disease,Never,26.1,137,227.0,120.0,4,No
+10130,61,Male,Healthy,Never,28.3,125,203.0,102.0,6,No
+10131,56,Male,Healthy,Never,22.6,146,170.0,108.0,4,Yes
+10132,55,Male,Healthy,Current,21.9,144,141.0,94.0,3,No
+10133,24,Female,Hypertension,Former,32.6,131,159.0,77.0,2,Yes
+10134,56,Female,Asthma,Former,33.1,128,210.0,118.0,6,Yes
+10135,72,Male,Hypertension,Current,21.7,162,202.0,113.0,7,Yes
+10136,38,Male,Hypertension,Never,31.1,156,199.0,103.0,6,No
+10137,58,Male,Arthritis,Never,26.1,145,196.0,126.0,3,No
+10138,20,Female,Arthritis,Current,28.1,120,208.0,72.0,4,No
+10139,41,Male,Healthy,Never,28.7,137,175.0,88.0,3,No
+10140,47,Female,Healthy,Former,31.3,159,197.0,101.0,6,No
+10141,84,Male,Healthy,Former,26.9,149,222.0,102.0,5,Yes
+10142,32,Female,Healthy,Never,33.3,130,212.0,106.0,4,No
+10143,36,Female,Hypertension,Never,28.0,124,137.0,92.0,4,No
+10144,45,Male,Diabetes,Never,29.5,130,173.0,106.0,5,No
+10145,85,Male,Arthritis,Never,22.5,160,231.0,113.0,4,Yes
+10146,76,Female,Healthy,Never,36.9,170,242.0,111.0,4,Yes
+10147,20,Female,Hypertension,Never,28.8,142,174.0,104.0,2,No
+10148,33,Female,Heart Disease,Former,29.9,133,179.0,100.0,5,No
+10149,73,Female,Arthritis,Current,18.8,149,230.0,115.0,6,Yes
+10150,21,Male,Hypertension,Former,22.6,150,189.0,94.0,3,No
+10151,76,Female,Asthma,Never,32.4,150,196.0,106.0,6,Yes
+10152,37,Female,Healthy,Never,27.9,125,187.0,83.0,3,No
+10153,80,Male,Arthritis,Never,17.3,138,235.0,115.0,8,No
+10154,37,Male,Diabetes,Never,31.5,146,224.0,114.0,4,No
+10155,47,Female,Healthy,Current,23.9,148,212.0,125.0,4,Yes
+10156,63,Male,Diabetes,Never,33.3,174,197.0,150.0,3,Yes
+10157,26,Male,Healthy,Never,26.1,109,171.0,101.0,2,No
+10158,55,Male,Diabetes,Current,27.5,158,213.0,131.0,3,Yes
+10159,52,Female,Arthritis,Never,32.2,141,186.0,99.0,3,No
+10160,71,Male,Asthma,Never,22.2,161,206.0,87.0,8,Yes
+10161,85,Male,Diabetes,Never,21.7,143,185.0,132.0,6,Yes
+10162,63,Male,Healthy,Former,25.6,163,227.0,106.0,6,No
+10163,45,Male,Diabetes,Former,30.5,145,157.0,125.0,6,No
+10164,45,Female,Hypertension,Never,20.1,137,174.0,105.0,3,No
+10165,46,Male,Diabetes,Current,18.5,144,196.0,137.0,4,Yes
+10166,73,Male,Arthritis,Current,30.5,145,259.0,96.0,5,Yes
+10167,39,Male,Healthy,Current,23.6,126,179.0,85.0,3,No
+10168,29,Male,Healthy,Never,24.6,121,158.0,115.0,4,No
+10169,40,Female,Diabetes,Never,17.6,112,168.0,132.0,3,No
+10170,19,Male,Asthma,Current,23.2,129,216.0,82.0,5,No
+10171,25,Male,Hypertension,Never,26.5,139,110.0,89.0,4,No
+10172,24,Male,Heart Disease,Former,31.0,115,157.0,89.0,4,No
+10173,70,Male,Healthy,Former,22.8,155,266.0,107.0,5,No
+10174,67,Male,Arthritis,Never,34.5,147,213.0,113.0,4,No
+10175,65,Female,Arthritis,Former,23.2,152,171.0,145.0,4,Yes
+10176,49,Male,Asthma,Current,23.2,131,195.0,102.0,3,No
+10177,66,Male,Healthy,Former,33.9,139,200.0,116.0,3,Yes
+10178,28,Female,Heart Disease,Never,27.5,137,204.0,65.0,4,No
+10179,79,Female,Hypertension,Current,23.9,158,259.0,102.0,8,Yes
+10180,52,Female,Asthma,Never,25.8,162,198.0,120.0,3,No
+10181,81,Female,Hypertension,Former,33.0,161,195.0,117.0,4,Yes
+10182,28,Male,Diabetes,Former,33.5,115,192.0,55.0,6,No
+10183,51,Female,Hypertension,Former,22.6,155,171.0,111.0,4,Yes
+10184,65,Male,Asthma,Never,26.3,155,172.0,135.0,5,No
+10185,51,Female,Arthritis,Never,26.9,148,146.0,68.0,4,No
+10186,48,Female,Diabetes,Never,21.8,151,149.0,147.0,3,No
+10187,29,Male,Asthma,Never,26.2,119,152.0,55.0,5,No
+10188,43,Female,Healthy,Never,26.5,133,155.0,112.0,3,No
+10189,34,Male,Healthy,Former,32.0,127,185.0,94.0,2,No
+10190,38,Male,Heart Disease,Never,32.3,117,161.0,58.0,3,No
+10191,64,Female,Diabetes,Former,24.9,145,121.0,136.0,4,Yes
+10192,60,Female,Healthy,Current,25.5,160,178.0,121.0,5,No
+10193,59,Male,Diabetes,Never,29.7,147,182.0,132.0,6,Yes
+10194,42,Male,Diabetes,Former,23.7,119,168.0,130.0,3,No
+10195,83,Female,Healthy,Former,29.3,142,245.0,104.0,4,Yes
+10196,23,Male,Heart Disease,Never,26.1,141,165.0,60.0,4,No
+10197,41,Female,Healthy,Never,21.8,132,203.0,107.0,3,No
+10198,26,Female,Arthritis,Former,21.9,117,171.0,119.0,7,No
+10199,41,Male,Arthritis,Current,33.4,130,190.0,114.0,6,No
+10200,83,Female,Diabetes,Former,25.7,143,189.0,103.0,4,Yes
+10201,42,Female,Diabetes,Current,34.4,150,190.0,96.0,4,No
+10202,79,Male,Diabetes,Current,24.0,153,197.0,120.0,7,No
+10203,51,Male,Hypertension,Never,27.9,157,192.0,74.0,3,No
+10204,65,Female,Healthy,Former,38.0,149,192.0,105.0,4,No
+10205,49,Male,Diabetes,Never,21.4,154,164.0,129.0,3,No
+10206,36,Male,Heart Disease,Current,17.4,133,221.0,72.0,3,Yes
+10207,69,Female,Healthy,Never,32.7,160,210.0,119.0,4,Yes
+10208,83,Female,Healthy,Never,22.5,167,198.0,121.0,4,Yes
+10209,35,Male,Asthma,Current,26.4,137,190.0,85.0,3,No
+10210,70,Female,Asthma,Never,23.7,155,198.0,104.0,4,No
+10211,35,Male,Healthy,Former,27.8,127,157.0,63.0,4,No
+10212,66,Female,Arthritis,Never,21.9,170,200.0,100.0,4,No
+10213,71,Male,Healthy,Current,25.6,142,195.0,107.0,6,No
+10214,48,Male,Healthy,Current,28.7,138,173.0,101.0,5,No
+10215,68,Female,Healthy,Never,21.7,150,160.0,112.0,3,No
+10216,36,Male,Diabetes,Former,23.1,135,170.0,123.0,4,Yes
+10217,23,Male,Heart Disease,Never,24.8,118,194.0,86.0,2,No
+10218,24,Male,Hypertension,Former,19.6,128,154.0,95.0,4,No
+10219,48,Female,Arthritis,Former,24.5,136,247.0,115.0,5,Yes
+10220,79,Female,Healthy,Former,27.1,140,228.0,108.0,4,No
+10221,26,Male,Heart Disease,Never,24.6,124,213.0,96.0,5,Yes
+10222,48,Male,Asthma,Never,25.2,126,205.0,96.0,4,No
+10223,65,Female,Hypertension,Former,26.4,131,242.0,94.0,5,No
+10224,31,Female,Healthy,Never,23.4,129,156.0,101.0,2,No
+10225,67,Female,Hypertension,Never,29.8,157,137.0,97.0,5,No
+10226,38,Male,Hypertension,Never,33.4,139,169.0,101.0,5,No
+10227,72,Male,Diabetes,Never,24.3,159,215.0,132.0,4,No
+10228,57,Male,Hypertension,Current,28.8,124,205.0,97.0,5,Yes
+10229,55,Female,Asthma,Never,25.3,127,197.0,96.0,6,No
+10230,30,Female,Heart Disease,Never,28.3,148,216.0,84.0,7,Yes
+10231,49,Female,Diabetes,Current,34.0,127,205.0,97.0,5,No
+10232,76,Male,Hypertension,Never,28.9,164,224.0,115.0,4,No
+10233,19,Female,Hypertension,Former,18.0,114,145.0,92.0,3,No
+10234,69,Female,Asthma,Never,28.7,152,174.0,120.0,7,No
+10235,51,Female,Hypertension,Current,32.4,135,236.0,91.0,4,No
+10236,66,Female,Arthritis,Former,25.4,155,200.0,135.0,5,No
+10237,63,Male,Diabetes,Current,31.3,149,190.0,122.0,5,No
+10238,47,Male,Diabetes,Never,23.2,132,171.0,108.0,4,No
+10239,38,Male,Asthma,Never,19.4,120,164.0,79.0,3,No
+10240,60,Male,Asthma,Former,27.2,148,177.0,75.0,3,No
+10241,27,Female,Hypertension,Never,18.1,113,142.0,116.0,6,No
+10242,57,Female,Hypertension,Never,25.3,150,156.0,124.0,5,No
+10243,24,Female,Healthy,Never,32.7,152,166.0,100.0,2,No
+10244,62,Male,Hypertension,Current,17.3,163,190.0,89.0,4,Yes
+10245,60,Male,Heart Disease,Former,20.4,153,231.0,132.0,4,No
+10246,23,Female,Heart Disease,Former,21.5,121,187.0,84.0,4,No
+10247,69,Male,Diabetes,Former,26.2,129,206.0,126.0,6,Yes
+10248,46,Male,Asthma,Never,24.7,122,167.0,121.0,4,No
+10249,71,Female,Healthy,Never,33.2,166,198.0,117.0,6,Yes
+10250,20,Male,Healthy,Never,31.1,112,177.0,124.0,3,No
+10251,30,Male,Diabetes,Former,28.9,119,192.0,120.0,5,No
+10252,51,Female,Diabetes,Never,27.2,138,186.0,117.0,4,No
+10253,30,Female,Diabetes,Current,28.4,115,209.0,107.0,3,Yes
+10254,40,Male,Asthma,Former,22.4,119,181.0,66.0,5,No
+10255,62,Male,Arthritis,Never,30.6,146,214.0,99.0,6,No
+10256,27,Male,Diabetes,Never,21.2,115,161.0,134.0,5,No
+10257,64,Female,Diabetes,Never,30.5,140,153.0,138.0,4,Yes
+10258,25,Male,Healthy,Current,32.2,115,187.0,91.0,2,No
+10259,29,Male,Hypertension,Current,27.5,134,200.0,76.0,3,No
+10260,57,Female,Asthma,Current,25.7,141,215.0,106.0,4,Yes
+10261,71,Male,Arthritis,Never,28.4,150,211.0,123.0,5,Yes
+10262,29,Female,Hypertension,Never,16.0,135,165.0,99.0,3,No
+10263,38,Female,Hypertension,Never,28.0,132,160.0,98.0,4,Yes
+10264,80,Male,Hypertension,Never,26.0,157,220.0,97.0,6,No
+10265,85,Female,Healthy,Never,26.3,166,220.0,126.0,3,No
+10266,57,Male,Hypertension,Never,29.9,153,179.0,55.0,4,No
+10267,48,Male,Diabetes,Current,26.1,136,222.0,129.0,5,No
+10268,41,Male,Hypertension,Never,21.0,136,160.0,137.0,5,No
+10269,59,Male,Hypertension,Never,25.8,138,179.0,79.0,4,No
+10270,58,Male,Arthritis,Former,26.8,134,232.0,98.0,7,No
+10271,38,Male,Diabetes,Former,27.1,140,201.0,119.0,5,No
+10272,19,Male,Heart Disease,Former,27.3,125,169.0,81.0,4,No
+10273,28,Male,Arthritis,Former,31.5,130,180.0,108.0,4,Yes
+10274,83,Female,Healthy,Current,21.3,163,222.0,119.0,6,No
+10275,46,Female,Hypertension,Former,27.3,139,119.0,101.0,6,No
+10276,50,Female,Healthy,Never,32.7,147,166.0,112.0,3,No
+10277,49,Male,Arthritis,Former,18.2,149,186.0,99.0,4,No
+10278,71,Male,Hypertension,Never,27.4,164,193.0,158.0,7,Yes
+10279,22,Male,Healthy,Never,23.7,121,175.0,92.0,2,No
+10280,23,Female,Healthy,Never,24.7,138,197.0,93.0,2,No
+10281,36,Female,Diabetes,Never,22.2,133,171.0,91.0,5,No
+10282,51,Female,Healthy,Former,25.7,147,163.0,91.0,5,No
+10283,63,Male,Asthma,Never,35.3,150,204.0,122.0,3,Yes
+10284,51,Male,Arthritis,Never,20.4,142,180.0,78.0,3,No
+10285,47,Female,Healthy,Never,20.9,129,182.0,64.0,2,No
+10286,81,Male,Asthma,Current,20.3,166,210.0,111.0,7,No
+10287,28,Female,Healthy,Never,34.8,157,227.0,114.0,3,No
+10288,56,Male,Diabetes,Former,24.3,139,138.0,126.0,4,No
+10289,54,Male,Healthy,Current,26.4,142,190.0,96.0,4,Yes
+10290,50,Female,Arthritis,Never,24.6,134,187.0,70.0,6,No
+10291,72,Male,Diabetes,Former,22.0,147,183.0,138.0,6,Yes
+10292,36,Male,Asthma,Never,25.4,147,200.0,105.0,6,No
+10293,82,Male,Diabetes,Never,38.3,151,228.0,106.0,5,Yes
+10294,40,Female,Hypertension,Former,33.2,130,180.0,114.0,4,No
+10295,55,Female,Hypertension,Current,22.4,127,193.0,114.0,4,No
+10296,53,Female,Diabetes,Never,29.6,133,187.0,143.0,4,No
+10297,75,Female,Hypertension,Never,22.5,138,201.0,118.0,5,No
+10298,47,Male,Hypertension,Never,18.0,146,184.0,109.0,3,No
+10299,37,Male,Healthy,Never,31.4,162,175.0,103.0,5,No
+10300,19,Male,Arthritis,Former,32.1,116,173.0,103.0,2,No
+10301,42,Female,Healthy,Former,31.5,116,200.0,68.0,2,No
+10302,74,Male,Diabetes,Former,24.2,164,174.0,108.0,6,No
+10303,18,Male,Healthy,Never,25.7,111,141.0,77.0,4,No
+10304,78,Male,Arthritis,Former,30.1,171,164.0,107.0,5,Yes
+10305,54,Male,Hypertension,Former,28.4,140,211.0,107.0,3,No
+10306,27,Male,Hypertension,Former,24.6,120,179.0,97.0,5,No
+10307,38,Female,Arthritis,Never,18.7,130,192.0,113.0,5,No
+10308,55,Female,Hypertension,Never,27.0,152,156.0,120.0,4,No
+10309,39,Male,Heart Disease,Never,31.7,130,233.0,82.0,5,No
+10310,25,Female,Healthy,Never,20.8,118,157.0,95.0,3,No
+10311,63,Female,Hypertension,Never,29.6,147,200.0,90.0,4,No
+10312,63,Male,Hypertension,Never,28.1,135,216.0,101.0,4,No
+10313,26,Female,Healthy,Former,30.1,128,148.0,96.0,2,No
+10314,37,Male,Arthritis,Never,30.7,111,166.0,55.0,3,No
+10315,34,Female,Hypertension,Former,23.2,126,181.0,132.0,3,No
+10316,62,Female,Healthy,Never,18.7,155,264.0,113.0,3,No
+10317,67,Female,Healthy,Former,23.9,153,206.0,96.0,5,No
+10318,67,Female,Heart Disease,Never,30.8,156,247.0,136.0,5,No
+10319,81,Female,Arthritis,Never,23.9,158,237.0,105.0,4,Yes
+10320,70,Female,Diabetes,Former,23.2,164,209.0,133.0,5,No
+10321,39,Male,Hypertension,Current,17.8,144,166.0,88.0,6,No
+10322,25,Female,Arthritis,Never,34.9,128,197.0,117.0,3,No
+10323,59,Female,Diabetes,Never,30.5,155,157.0,125.0,3,No
+10324,80,Male,Arthritis,Former,30.2,166,245.0,112.0,4,Yes
+10325,84,Female,Healthy,Former,31.1,155,214.0,131.0,6,No
+10326,33,Female,Hypertension,Never,29.3,116,113.0,103.0,6,No
+10327,34,Female,Arthritis,Never,25.3,134,169.0,93.0,3,No
+10328,20,Female,Diabetes,Never,25.7,126,184.0,131.0,2,No
+10329,27,Male,Healthy,Current,24.4,137,176.0,132.0,4,No
+10330,55,Male,Diabetes,Never,39.1,132,208.0,130.0,4,No
+10331,55,Female,Arthritis,Never,29.2,132,170.0,103.0,4,No
+10332,43,Male,Heart Disease,Current,24.3,140,171.0,100.0,3,Yes
+10333,39,Female,Asthma,Never,28.7,131,179.0,117.0,5,No
+10334,74,Female,Arthritis,Never,21.6,133,204.0,98.0,4,Yes
+10335,49,Female,Healthy,Never,33.7,143,178.0,95.0,2,No
+10336,72,Female,Heart Disease,Never,23.3,132,241.0,83.0,4,No
+10337,83,Female,Healthy,Never,28.9,149,189.0,92.0,3,Yes
+10338,39,Female,Healthy,Never,31.6,147,188.0,87.0,2,Yes
+10339,31,Male,Asthma,Former,28.3,147,177.0,92.0,6,No
+10340,82,Female,Heart Disease,Former,27.0,145,181.0,139.0,6,No
+10341,61,Female,Hypertension,Never,26.6,144,163.0,112.0,4,No
+10342,37,Female,Healthy,Never,26.2,131,179.0,80.0,3,Yes
+10343,60,Female,Heart Disease,Never,23.7,165,252.0,91.0,4,Yes
+10344,53,Female,Asthma,Current,24.3,135,212.0,123.0,6,No
+10345,79,Female,Hypertension,Never,33.6,154,165.0,128.0,6,Yes
+10346,35,Female,Healthy,Former,26.0,147,110.0,95.0,5,No
+10347,85,Female,Asthma,Never,22.7,157,228.0,105.0,6,No
+10348,81,Female,Arthritis,Former,24.0,166,205.0,128.0,4,Yes
+10349,30,Female,Hypertension,Never,31.8,112,202.0,77.0,3,No
+10350,29,Female,Healthy,Former,29.7,124,153.0,98.0,3,No
+10351,54,Female,Hypertension,Never,29.2,125,199.0,137.0,4,Yes
+10352,21,Male,Diabetes,Current,25.3,109,198.0,117.0,3,No
+10353,38,Male,Healthy,Never,29.3,141,169.0,83.0,6,Yes
+10354,47,Female,Healthy,Former,23.4,137,175.0,105.0,2,No
+10355,83,Female,Diabetes,Current,25.3,156,219.0,128.0,4,No
+10356,85,Female,Asthma,Current,31.2,152,232.0,89.0,5,No
+10357,28,Male,Healthy,Never,30.7,123,173.0,103.0,3,No
+10358,78,Male,Healthy,Never,21.8,160,229.0,127.0,7,No
+10359,24,Male,Asthma,Never,22.4,134,160.0,85.0,2,No
+10360,68,Female,Heart Disease,Never,27.0,121,177.0,100.0,6,No
+10361,75,Female,Healthy,Former,34.8,145,251.0,93.0,4,Yes
+10362,78,Female,Healthy,Current,17.3,158,200.0,107.0,3,No
+10363,33,Male,Healthy,Current,27.8,127,172.0,85.0,3,No
+10364,78,Male,Heart Disease,Never,19.9,161,214.0,93.0,7,No
+10365,25,Female,Hypertension,Former,23.5,128,173.0,121.0,4,No
+10366,53,Male,Healthy,Current,24.8,138,189.0,108.0,5,No
+10367,49,Female,Healthy,Current,24.5,133,195.0,108.0,2,No
+10368,39,Female,Healthy,Never,23.9,129,179.0,110.0,4,Yes
+10369,19,Female,Hypertension,Never,26.5,134,172.0,101.0,2,No
+10370,70,Male,Diabetes,Current,23.9,143,153.0,124.0,4,Yes
+10371,40,Female,Healthy,Never,19.5,132,226.0,100.0,4,Yes
+10372,62,Male,Hypertension,Never,30.2,150,192.0,99.0,5,No
+10373,45,Male,Healthy,Current,30.1,153,207.0,105.0,3,No
+10374,43,Female,Asthma,Current,30.5,131,159.0,103.0,4,No
+10375,78,Male,Arthritis,Current,19.1,167,203.0,103.0,6,Yes
+10376,24,Female,Healthy,Former,27.9,136,154.0,69.0,5,No
+10377,68,Male,Asthma,Never,29.7,149,234.0,108.0,5,Yes
+10378,68,Female,Diabetes,Never,21.6,148,185.0,127.0,4,No
+10379,43,Female,Arthritis,Never,26.5,131,201.0,67.0,3,No
+10380,35,Male,Arthritis,Never,25.9,127,162.0,102.0,3,Yes
+10381,18,Male,Asthma,Never,35.3,129,156.0,104.0,5,No
+10382,81,Female,Arthritis,Former,35.7,161,202.0,151.0,6,Yes
+10383,82,Male,Healthy,Never,18.5,161,239.0,104.0,5,No
+10384,34,Female,Asthma,Former,38.5,117,132.0,85.0,5,No
+10385,20,Male,Diabetes,Never,22.1,110,136.0,95.0,3,No
+10386,26,Male,Asthma,Never,31.2,148,125.0,94.0,7,No
+10387,22,Female,Asthma,Never,31.2,120,143.0,93.0,4,No
+10388,74,Male,Hypertension,Never,21.7,147,184.0,95.0,6,Yes
+10389,78,Male,Hypertension,Current,28.9,174,176.0,107.0,6,Yes
+10390,28,Female,Arthritis,Never,26.0,128,156.0,60.0,3,Yes
+10391,68,Female,Diabetes,Never,29.2,157,151.0,145.0,4,No
+10392,30,Female,Healthy,Former,27.6,125,150.0,80.0,3,No
+10393,42,Female,Diabetes,Never,32.2,131,211.0,120.0,3,No
+10394,58,Female,Hypertension,Never,26.9,144,202.0,79.0,3,No
+10395,66,Male,Healthy,Never,25.7,134,202.0,96.0,3,No
+10396,77,Male,Healthy,Never,31.8,155,181.0,104.0,5,No
+10397,21,Female,Diabetes,Former,29.3,124,132.0,113.0,2,No
+10398,31,Female,Diabetes,Never,30.0,148,148.0,125.0,3,Yes
+10399,37,Male,Diabetes,Never,23.3,132,178.0,142.0,3,No
+10400,39,Male,Heart Disease,Never,21.5,107,211.0,107.0,4,No
+10401,85,Female,Asthma,Former,23.8,160,232.0,127.0,6,Yes
+10402,70,Female,Diabetes,Never,23.5,182,216.0,154.0,5,Yes
+10403,39,Female,Hypertension,Current,30.3,144,172.0,105.0,3,No
+10404,84,Female,Heart Disease,Never,31.2,151,220.0,111.0,6,Yes
+10405,51,Female,Healthy,Former,25.8,146,180.0,116.0,4,No
+10406,52,Female,Arthritis,Never,33.4,132,184.0,117.0,4,No
+10407,47,Female,Heart Disease,Never,33.1,122,244.0,109.0,3,No
+10408,27,Female,Hypertension,Never,27.7,123,130.0,68.0,3,No
+10409,81,Female,Diabetes,Former,22.6,159,202.0,121.0,6,Yes
+10410,18,Female,Diabetes,Current,34.1,99,205.0,108.0,2,No
+10411,29,Female,Healthy,Never,26.2,113,139.0,105.0,4,No
+10412,33,Male,Healthy,Never,27.1,129,161.0,93.0,4,No
+10413,36,Female,Healthy,Current,24.9,126,175.0,113.0,3,No
+10414,26,Female,Healthy,Never,22.2,128,167.0,112.0,2,No
+10415,19,Male,Healthy,Never,19.5,106,129.0,108.0,3,No
+10416,64,Male,Healthy,Never,29.5,156,211.0,124.0,4,No
+10417,83,Female,Hypertension,Former,22.7,148,225.0,94.0,9,No
+10418,26,Female,Hypertension,Former,41.2,144,184.0,99.0,4,No
+10419,38,Female,Diabetes,Former,21.3,113,159.0,110.0,5,No
+10420,52,Male,Heart Disease,Current,20.5,128,210.0,74.0,3,Yes
+10421,81,Female,Hypertension,Never,28.9,165,186.0,106.0,5,No
+10422,65,Female,Healthy,Never,26.6,167,189.0,126.0,4,No
+10423,70,Male,Arthritis,Never,26.8,155,252.0,114.0,6,Yes
+10424,57,Male,Heart Disease,Never,29.2,150,204.0,134.0,3,Yes
+10425,46,Female,Hypertension,Never,17.7,139,156.0,101.0,5,No
+10426,31,Female,Diabetes,Never,23.2,116,179.0,156.0,6,No
+10427,76,Male,Hypertension,Never,21.3,152,172.0,111.0,6,Yes
+10428,72,Male,Healthy,Former,17.4,139,173.0,108.0,5,Yes
+10429,19,Male,Arthritis,Never,27.1,106,142.0,68.0,6,No
+10430,66,Male,Healthy,Never,16.0,153,187.0,123.0,5,No
+10431,23,Female,Diabetes,Former,20.2,110,192.0,106.0,4,No
+10432,68,Male,Asthma,Former,23.9,154,213.0,95.0,6,No
+10433,74,Male,Asthma,Former,22.5,140,216.0,128.0,6,No
+10434,26,Male,Healthy,Former,28.4,127,146.0,110.0,5,No
+10435,47,Female,Healthy,Former,28.0,132,173.0,117.0,3,No
+10436,26,Female,Diabetes,Never,30.8,140,178.0,109.0,3,No
+10437,56,Female,Healthy,Never,30.1,146,176.0,101.0,4,Yes
+10438,81,Male,Hypertension,Former,32.0,174,201.0,109.0,6,Yes
+10439,23,Male,Healthy,Never,26.5,114,181.0,103.0,5,No
+10440,45,Female,Hypertension,Never,28.0,139,176.0,123.0,4,No
+10441,84,Male,Diabetes,Never,29.0,149,215.0,141.0,4,Yes
+10442,38,Male,Healthy,Never,27.2,127,218.0,127.0,4,No
+10443,26,Male,Hypertension,Never,24.6,123,168.0,105.0,4,No
+10444,51,Female,Asthma,Never,24.9,132,216.0,96.0,5,No
+10445,52,Female,Asthma,Former,22.6,127,202.0,113.0,4,No
+10446,63,Female,Diabetes,Current,28.5,132,170.0,155.0,3,No
+10447,39,Male,Arthritis,Never,26.0,106,154.0,128.0,4,No
+10448,82,Male,Healthy,Current,23.3,147,197.0,130.0,5,No
+10449,53,Female,Healthy,Never,23.3,148,169.0,101.0,4,No
+10450,37,Female,Diabetes,Current,20.7,113,186.0,115.0,3,No
+10451,83,Male,Heart Disease,Current,31.2,144,243.0,120.0,7,Yes
+10452,80,Male,Diabetes,Never,26.9,177,237.0,161.0,5,Yes
+10453,51,Female,Diabetes,Former,22.4,133,196.0,131.0,6,No
+10454,19,Female,Hypertension,Current,30.4,125,166.0,96.0,4,No
+10455,58,Male,Healthy,Current,23.8,151,152.0,103.0,6,No
+10456,55,Male,Healthy,Current,19.7,149,201.0,96.0,5,Yes
+10457,28,Male,Healthy,Never,31.4,109,174.0,89.0,3,No
+10458,61,Male,Heart Disease,Never,23.9,143,209.0,106.0,8,No
+10459,75,Female,Heart Disease,Current,24.5,137,273.0,136.0,5,Yes
+10460,25,Male,Heart Disease,Former,26.7,150,211.0,87.0,6,No
+10461,67,Male,Heart Disease,Former,32.0,132,227.0,106.0,5,Yes
+10462,27,Female,Asthma,Never,26.6,113,149.0,78.0,4,No
+10463,68,Female,Hypertension,Never,20.7,141,187.0,117.0,4,No
+10464,46,Female,Hypertension,Never,29.1,122,183.0,120.0,3,No
+10465,18,Female,Healthy,Former,24.2,134,148.0,114.0,3,No
+10466,83,Female,Heart Disease,Never,35.6,186,231.0,114.0,5,Yes
+10467,29,Male,Healthy,Former,26.5,121,182.0,101.0,3,No
+10468,58,Female,Hypertension,Current,16.0,131,176.0,100.0,5,No
+10469,30,Male,Heart Disease,Never,28.2,102,213.0,101.0,4,Yes
+10470,81,Male,Diabetes,Never,35.8,156,210.0,139.0,4,Yes
+10471,68,Male,Diabetes,Never,34.1,147,158.0,131.0,5,No
+10472,72,Female,Hypertension,Current,35.3,147,210.0,109.0,6,Yes
+10473,47,Female,Hypertension,Former,21.6,142,192.0,106.0,4,No
+10474,49,Female,Healthy,Never,30.9,143,210.0,94.0,3,No
+10475,61,Male,Diabetes,Never,23.0,149,187.0,123.0,6,Yes
+10476,71,Female,Arthritis,Never,27.6,149,221.0,134.0,4,Yes
+10477,75,Female,Asthma,Never,20.4,142,208.0,152.0,5,No
+10478,19,Male,Asthma,Current,23.4,127,145.0,69.0,4,No
+10479,63,Male,Heart Disease,Former,23.3,147,172.0,84.0,3,No
+10480,25,Female,Diabetes,Never,30.8,133,198.0,99.0,3,No
+10481,37,Male,Healthy,Current,30.3,140,217.0,93.0,3,No
+10482,74,Female,Healthy,Never,27.8,138,211.0,122.0,5,Yes
+10483,35,Female,Healthy,Current,20.0,114,223.0,104.0,2,No
+10484,72,Female,Asthma,Never,25.0,144,227.0,110.0,6,No
+10485,49,Male,Hypertension,Former,22.9,129,203.0,108.0,4,No
+10486,33,Female,Healthy,Current,30.7,137,164.0,82.0,3,No
+10487,40,Female,Diabetes,Never,32.2,137,223.0,116.0,6,No
+10488,54,Male,Hypertension,Former,31.6,156,203.0,101.0,5,Yes
+10489,70,Female,Diabetes,Current,22.9,156,200.0,105.0,5,Yes
+10490,59,Female,Healthy,Never,16.0,147,177.0,84.0,4,No
+10491,81,Female,Arthritis,Never,18.0,171,214.0,92.0,8,No
+10492,77,Male,Healthy,Former,33.3,161,165.0,121.0,3,Yes
+10493,69,Male,Healthy,Never,24.6,152,217.0,110.0,4,No
+10494,59,Male,Diabetes,Never,22.9,161,170.0,136.0,5,Yes
+10495,37,Female,Healthy,Never,34.4,132,188.0,66.0,3,No
+10496,46,Male,Asthma,Former,32.6,133,172.0,74.0,3,No
+10497,26,Male,Arthritis,Never,26.6,115,166.0,102.0,5,No
+10498,43,Male,Hypertension,Never,25.1,144,165.0,55.0,4,No
+10499,81,Male,Healthy,Current,25.9,172,213.0,130.0,3,No
+10500,46,Male,Diabetes,Never,27.6,136,230.0,93.0,3,Yes
+10501,25,Female,Hypertension,Current,34.2,140,213.0,104.0,6,No
+10502,62,Female,Asthma,Never,28.5,125,204.0,89.0,4,No
+10503,83,Male,Hypertension,Current,30.0,161,217.0,128.0,6,Yes
+10504,76,Female,Hypertension,Former,32.1,157,225.0,160.0,5,Yes
+10505,36,Male,Arthritis,Never,20.9,122,206.0,58.0,5,No
+10506,48,Male,Asthma,Current,30.1,164,175.0,110.0,5,Yes
+10507,54,Female,Healthy,Never,25.1,141,188.0,72.0,5,No
+10508,34,Male,Diabetes,Never,16.0,125,133.0,125.0,4,No
+10509,36,Female,Healthy,Never,16.3,131,205.0,91.0,3,No
+10510,34,Male,Asthma,Former,21.6,107,227.0,96.0,5,Yes
+10511,85,Female,Arthritis,Never,29.0,152,212.0,97.0,4,Yes
+10512,68,Female,Arthritis,Never,27.0,161,148.0,118.0,6,Yes
+10513,75,Male,Asthma,Never,27.4,148,218.0,85.0,4,No
+10514,73,Female,Healthy,Never,35.9,144,181.0,127.0,5,Yes
+10515,83,Female,Diabetes,Never,20.4,174,193.0,129.0,5,Yes
+10516,25,Female,Hypertension,Never,26.4,140,186.0,68.0,3,No
+10517,77,Male,Arthritis,Never,28.0,161,211.0,134.0,6,Yes
+10518,22,Female,Healthy,Never,23.0,117,158.0,89.0,3,No
+10519,50,Female,Hypertension,Former,26.6,138,172.0,130.0,6,No
+10520,58,Female,Asthma,Never,18.8,135,196.0,122.0,5,Yes
+10521,42,Male,Healthy,Former,33.3,123,172.0,84.0,2,Yes
+10522,27,Female,Healthy,Never,23.2,113,146.0,90.0,3,No
+10523,31,Female,Healthy,Never,36.3,120,167.0,95.0,3,No
+10524,74,Male,Heart Disease,Never,26.3,142,221.0,132.0,5,No
+10525,39,Female,Arthritis,Never,31.4,115,176.0,103.0,5,No
+10526,39,Male,Diabetes,Never,26.2,135,146.0,122.0,5,No
+10527,80,Female,Healthy,Former,26.4,160,231.0,107.0,3,Yes
+10528,27,Male,Asthma,Never,23.7,143,110.0,91.0,5,No
+10529,80,Female,Healthy,Never,27.1,150,196.0,131.0,4,No
+10530,80,Male,Asthma,Former,28.0,161,192.0,110.0,4,Yes
+10531,58,Male,Heart Disease,Never,22.7,147,206.0,96.0,4,No
+10532,29,Female,Arthritis,Never,25.9,123,187.0,83.0,4,No
+10533,28,Female,Heart Disease,Never,23.6,134,210.0,83.0,4,No
+10534,37,Female,Healthy,Never,37.5,139,162.0,73.0,5,No
+10535,57,Female,Asthma,Never,26.1,147,206.0,90.0,4,No
+10536,28,Male,Arthritis,Former,33.9,123,178.0,116.0,4,No
+10537,48,Female,Diabetes,Current,25.6,134,154.0,119.0,3,No
+10538,25,Male,Asthma,Never,27.7,108,217.0,102.0,6,No
+10539,54,Female,Asthma,Former,20.2,133,156.0,61.0,3,No
+10540,19,Male,Hypertension,Former,24.4,115,177.0,98.0,4,No
+10541,66,Male,Hypertension,Never,27.5,139,207.0,103.0,4,No
+10542,21,Male,Arthritis,Former,34.1,126,175.0,82.0,2,No
+10543,31,Male,Arthritis,Former,27.6,140,163.0,96.0,5,Yes
+10544,29,Male,Arthritis,Current,33.1,116,203.0,84.0,3,No
+10545,74,Male,Hypertension,Current,29.6,159,175.0,74.0,4,Yes
+10546,21,Male,Diabetes,Never,34.3,110,167.0,128.0,2,No
+10547,47,Female,Diabetes,Never,26.2,134,172.0,126.0,4,No
+10548,58,Male,Healthy,Never,38.0,136,176.0,97.0,7,Yes
+10549,53,Male,Healthy,Never,24.2,147,200.0,85.0,3,No
+10550,64,Male,Diabetes,Never,22.8,140,222.0,105.0,4,No
+10551,72,Male,Arthritis,Current,20.7,164,203.0,111.0,4,No
+10552,44,Female,Hypertension,Never,37.7,135,202.0,123.0,4,Yes
+10553,74,Female,Diabetes,Never,30.4,147,204.0,135.0,4,Yes
+10554,39,Female,Hypertension,Current,24.9,120,168.0,74.0,5,No
+10555,84,Female,Diabetes,Never,32.5,163,203.0,139.0,5,Yes
+10556,52,Female,Arthritis,Never,29.8,150,182.0,99.0,3,Yes
+10557,68,Female,Healthy,Current,35.9,153,191.0,120.0,4,No
+10558,77,Male,Diabetes,Never,19.1,180,215.0,143.0,5,Yes
+10559,71,Male,Heart Disease,Never,25.2,168,217.0,59.0,6,No
+10560,75,Male,Arthritis,Never,24.3,151,166.0,117.0,8,No
+10561,54,Female,Healthy,Current,17.0,138,159.0,85.0,5,No
+10562,20,Female,Arthritis,Never,31.6,126,178.0,66.0,4,No
+10563,51,Male,Diabetes,Never,25.2,130,169.0,121.0,8,Yes
+10564,30,Female,Arthritis,Never,30.1,139,182.0,99.0,5,No
+10565,78,Male,Diabetes,Never,37.8,160,224.0,107.0,6,No
+10566,34,Male,Healthy,Current,24.8,132,156.0,105.0,3,No
+10567,33,Male,Asthma,Never,24.5,136,143.0,106.0,3,No
+10568,34,Female,Arthritis,Current,27.1,148,226.0,95.0,4,Yes
+10569,61,Male,Hypertension,Never,31.2,150,203.0,89.0,4,No
+10570,56,Male,Asthma,Never,23.8,141,181.0,86.0,4,No
+10571,82,Female,Healthy,Current,23.5,175,195.0,127.0,3,Yes
+10572,46,Female,Arthritis,Never,31.6,147,173.0,74.0,4,No
+10573,37,Male,Asthma,Never,28.3,127,150.0,112.0,3,Yes
+10574,21,Female,Healthy,Current,16.7,121,199.0,87.0,2,No
+10575,18,Male,Healthy,Never,20.6,121,148.0,87.0,2,No
+10576,43,Female,Diabetes,Never,33.7,139,209.0,94.0,4,Yes
+10577,80,Male,Heart Disease,Current,28.4,143,216.0,108.0,5,No
+10578,53,Female,Heart Disease,Never,22.8,124,174.0,110.0,5,No
+10579,78,Female,Arthritis,Never,25.7,147,195.0,88.0,6,No
+10580,24,Female,Diabetes,Never,26.6,112,110.0,122.0,6,No
+10581,24,Female,Diabetes,Never,30.0,116,168.0,116.0,4,No
+10582,74,Female,Healthy,Never,20.0,161,199.0,98.0,3,No
+10583,25,Male,Healthy,Former,22.5,122,191.0,104.0,2,No
+10584,21,Female,Healthy,Never,27.8,123,123.0,55.0,3,No
+10585,45,Female,Healthy,Former,26.0,122,212.0,103.0,2,No
+10586,80,Female,Healthy,Never,29.2,153,227.0,136.0,5,Yes
+10587,64,Male,Healthy,Never,20.6,154,227.0,127.0,6,No
+10588,24,Male,Healthy,Never,28.2,129,169.0,97.0,2,No
+10589,74,Male,Heart Disease,Former,31.7,146,237.0,103.0,5,No
+10590,75,Female,Asthma,Never,28.8,156,168.0,98.0,5,No
+10591,72,Male,Diabetes,Never,27.2,177,219.0,126.0,9,Yes
+10592,79,Female,Arthritis,Current,26.0,157,197.0,118.0,8,Yes
+10593,34,Male,Diabetes,Never,22.5,121,137.0,105.0,3,No
+10594,84,Female,Diabetes,Never,26.2,158,183.0,148.0,9,Yes
+10595,39,Male,Arthritis,Current,32.5,133,189.0,130.0,3,No
+10596,72,Male,Asthma,Never,25.9,151,182.0,106.0,5,No
+10597,57,Female,Diabetes,Never,22.2,143,201.0,104.0,4,No
+10598,71,Male,Healthy,Never,24.1,136,158.0,85.0,4,Yes
+10599,60,Female,Healthy,Never,27.5,135,143.0,115.0,6,No
+10600,61,Male,Hypertension,Never,24.7,146,228.0,102.0,3,Yes
+10601,59,Male,Hypertension,Former,28.8,145,215.0,117.0,6,No
+10602,70,Male,Diabetes,Never,29.0,145,175.0,122.0,8,Yes
+10603,68,Male,Healthy,Former,30.8,148,199.0,119.0,4,Yes
+10604,27,Female,Healthy,Current,33.3,125,206.0,89.0,2,Yes
+10605,74,Female,Hypertension,Former,31.3,166,213.0,96.0,6,Yes
+10606,54,Male,Healthy,Former,22.0,140,194.0,94.0,4,No
+10607,39,Female,Hypertension,Former,22.2,139,207.0,76.0,3,No
+10608,52,Female,Asthma,Current,26.1,134,180.0,132.0,5,No
+10609,83,Female,Healthy,Never,24.3,166,210.0,110.0,4,No
+10610,76,Male,Diabetes,Never,21.0,159,204.0,143.0,7,Yes
+10611,74,Female,Hypertension,Never,24.4,165,197.0,99.0,5,Yes
+10612,49,Female,Asthma,Never,24.2,146,177.0,82.0,4,No
+10613,71,Female,Arthritis,Never,23.3,158,203.0,103.0,6,No
+10614,44,Female,Healthy,Former,25.0,134,184.0,115.0,2,No
+10615,64,Male,Healthy,Never,32.2,150,171.0,96.0,4,Yes
+10616,61,Male,Hypertension,Current,27.5,160,223.0,89.0,5,No
+10617,34,Male,Hypertension,Never,38.4,124,154.0,96.0,4,Yes
+10618,36,Male,Healthy,Never,27.3,123,173.0,103.0,5,No
+10619,22,Female,Diabetes,Never,25.1,124,162.0,140.0,4,No
+10620,27,Male,Healthy,Never,26.5,129,181.0,97.0,5,No
+10621,47,Female,Arthritis,Never,27.7,128,135.0,109.0,4,No
+10622,50,Female,Hypertension,Never,28.6,140,209.0,111.0,5,No
+10623,29,Female,Healthy,Never,36.5,125,158.0,74.0,5,Yes
+10624,46,Female,Hypertension,Never,22.4,114,214.0,83.0,3,No
+10625,59,Male,Asthma,Never,30.6,142,182.0,85.0,4,Yes
+10626,33,Female,Heart Disease,Never,27.5,127,185.0,72.0,5,No
+10627,41,Male,Heart Disease,Never,19.0,132,238.0,109.0,3,Yes
+10628,42,Female,Arthritis,Never,30.2,150,176.0,101.0,5,Yes
+10629,52,Female,Arthritis,Never,32.6,127,219.0,101.0,3,No
+10630,42,Female,Healthy,Never,22.4,125,183.0,55.0,2,No
+10631,68,Female,Healthy,Never,26.5,121,209.0,139.0,5,Yes
+10632,40,Female,Heart Disease,Former,18.2,128,193.0,82.0,4,No
+10633,47,Male,Hypertension,Current,20.5,135,215.0,131.0,4,No
+10634,43,Male,Healthy,Current,31.5,129,175.0,74.0,4,No
+10635,30,Male,Healthy,Never,24.3,139,151.0,80.0,3,No
+10636,64,Female,Diabetes,Never,21.2,157,181.0,93.0,4,No
+10637,34,Male,Asthma,Never,27.6,130,179.0,100.0,3,No
+10638,38,Male,Asthma,Former,24.0,127,174.0,78.0,4,No
+10639,71,Female,Hypertension,Former,24.2,165,218.0,90.0,5,No
+10640,82,Male,Arthritis,Current,30.0,159,249.0,89.0,5,Yes
+10641,63,Male,Diabetes,Current,20.9,138,182.0,140.0,4,No
+10642,80,Male,Healthy,Never,22.2,139,189.0,121.0,3,No
+10643,76,Female,Healthy,Former,27.2,150,170.0,138.0,6,No
+10644,50,Female,Healthy,Former,31.2,147,236.0,89.0,2,No
+10645,70,Female,Asthma,Never,32.4,176,208.0,110.0,7,Yes
+10646,40,Female,Diabetes,Current,23.3,133,202.0,99.0,3,No
+10647,49,Female,Healthy,Never,31.0,130,155.0,94.0,4,No
+10648,54,Female,Healthy,Current,22.7,128,199.0,93.0,5,No
+10649,83,Female,Heart Disease,Former,35.3,166,231.0,118.0,6,Yes
+10650,75,Male,Healthy,Never,21.1,135,198.0,125.0,5,Yes
+10651,51,Female,Hypertension,Former,32.9,148,214.0,116.0,5,No
+10652,62,Female,Healthy,Never,23.3,155,251.0,90.0,5,Yes
+10653,31,Female,Hypertension,Former,36.2,134,152.0,109.0,7,No
+10654,72,Female,Hypertension,Former,29.3,152,177.0,106.0,5,No
+10655,55,Male,Heart Disease,Former,21.6,148,180.0,96.0,3,No
+10656,54,Male,Hypertension,Current,24.0,145,238.0,90.0,4,No
+10657,70,Male,Hypertension,Never,30.2,145,226.0,98.0,5,No
+10658,61,Male,Hypertension,Never,31.6,168,191.0,131.0,4,Yes
+10659,22,Female,Asthma,Never,26.2,118,170.0,95.0,4,No
+10660,37,Male,Healthy,Never,26.7,139,159.0,98.0,2,No
+10661,30,Male,Hypertension,Never,30.1,102,196.0,88.0,4,No
+10662,67,Female,Arthritis,Never,27.1,164,189.0,145.0,5,Yes
+10663,20,Male,Healthy,Never,20.3,137,162.0,110.0,6,Yes
+10664,31,Male,Hypertension,Never,22.6,130,190.0,81.0,3,No
+10665,58,Male,Hypertension,Current,27.6,152,197.0,98.0,3,Yes
+10666,65,Female,Healthy,Never,32.3,154,192.0,101.0,4,Yes
+10667,52,Female,Healthy,Current,34.3,133,198.0,103.0,4,No
+10668,76,Female,Heart Disease,Never,30.2,161,233.0,97.0,4,No
+10669,80,Female,Healthy,Never,27.9,149,247.0,117.0,4,Yes
+10670,26,Male,Hypertension,Never,30.1,119,186.0,114.0,5,No
+10671,82,Female,Asthma,Never,23.3,171,228.0,90.0,6,No
+10672,59,Male,Healthy,Never,25.8,155,189.0,85.0,5,No
+10673,61,Female,Diabetes,Never,22.5,138,178.0,120.0,6,No
+10674,24,Female,Healthy,Never,20.5,115,186.0,83.0,3,No
+10675,60,Male,Heart Disease,Never,28.1,138,208.0,135.0,5,Yes
+10676,67,Female,Healthy,Never,27.4,158,164.0,121.0,5,Yes
+10677,57,Female,Asthma,Never,29.8,132,184.0,117.0,4,No
+10678,23,Female,Asthma,Former,29.1,126,168.0,86.0,5,No
+10679,53,Female,Diabetes,Never,27.7,149,177.0,120.0,6,No
+10680,81,Male,Diabetes,Current,29.2,157,252.0,111.0,4,No
+10681,67,Male,Healthy,Former,26.3,161,210.0,118.0,4,Yes
+10682,27,Male,Hypertension,Current,28.5,123,215.0,99.0,3,No
+10683,83,Male,Hypertension,Current,23.0,159,224.0,132.0,5,Yes
+10684,83,Female,Hypertension,Never,28.3,151,211.0,108.0,5,Yes
+10685,29,Male,Hypertension,Never,29.7,139,151.0,90.0,4,No
+10686,72,Female,Healthy,Never,23.3,144,202.0,110.0,4,No
+10687,45,Female,Asthma,Former,26.7,140,185.0,112.0,6,No
+10688,58,Male,Healthy,Former,23.5,143,160.0,79.0,4,No
+10689,48,Female,Hypertension,Never,24.0,128,173.0,111.0,3,No
+10690,71,Male,Arthritis,Current,21.1,145,202.0,107.0,6,Yes
+10691,85,Male,Asthma,Never,32.6,176,220.0,95.0,5,No
+10692,72,Female,Asthma,Never,31.6,155,213.0,74.0,5,Yes
+10693,81,Female,Healthy,Former,29.1,147,194.0,108.0,4,No
+10694,82,Male,Healthy,Never,36.0,162,220.0,134.0,3,Yes
+10695,24,Male,Healthy,Former,25.6,121,166.0,117.0,3,No
+10696,35,Male,Diabetes,Former,41.1,168,110.0,124.0,5,No
+10697,67,Male,Diabetes,Never,25.4,153,187.0,161.0,4,Yes
+10698,58,Female,Arthritis,Never,27.7,140,219.0,102.0,6,No
+10699,21,Female,Diabetes,Never,24.6,137,128.0,129.0,5,No
+10700,24,Male,Healthy,Former,28.3,103,173.0,83.0,2,No
+10701,53,Female,Heart Disease,Never,30.5,142,237.0,92.0,7,Yes
+10702,59,Male,Heart Disease,Current,26.0,167,194.0,92.0,3,No
+10703,29,Male,Healthy,Current,35.0,125,183.0,59.0,2,No
+10704,29,Male,Arthritis,Never,27.6,107,143.0,113.0,4,No
+10705,26,Female,Hypertension,Never,27.8,122,211.0,81.0,4,No
+10706,56,Male,Hypertension,Former,22.1,161,189.0,89.0,6,Yes
+10707,18,Female,Arthritis,Former,28.5,123,168.0,69.0,3,No
+10708,56,Male,Heart Disease,Never,25.9,133,234.0,98.0,5,No
+10709,50,Female,Diabetes,Never,23.6,131,203.0,152.0,3,No
+10710,49,Male,Asthma,Never,22.8,132,166.0,133.0,8,No
+10711,64,Female,Healthy,Current,39.3,152,190.0,78.0,4,Yes
+10712,53,Female,Healthy,Never,25.2,156,201.0,95.0,4,No
+10713,67,Female,Heart Disease,Current,19.5,161,203.0,89.0,6,Yes
+10714,69,Male,Asthma,Never,23.1,156,149.0,122.0,5,No
+10715,80,Female,Diabetes,Current,26.3,143,215.0,139.0,6,No
+10716,72,Female,Heart Disease,Never,29.1,138,176.0,97.0,6,No
+10717,53,Female,Diabetes,Never,29.2,147,228.0,126.0,4,No
+10718,51,Female,Heart Disease,Current,29.7,125,211.0,92.0,3,No
+10719,34,Female,Arthritis,Current,23.4,127,164.0,120.0,5,No
+10720,58,Female,Hypertension,Never,28.1,149,176.0,111.0,3,No
+10721,27,Male,Hypertension,Never,22.3,114,127.0,102.0,6,No
+10722,81,Male,Diabetes,Never,23.5,147,181.0,92.0,6,No
+10723,75,Male,Healthy,Never,22.1,153,228.0,107.0,4,Yes
+10724,26,Male,Arthritis,Never,20.8,130,225.0,124.0,4,Yes
+10725,71,Female,Hypertension,Current,31.6,166,228.0,128.0,5,Yes
+10726,25,Male,Healthy,Never,29.8,130,169.0,61.0,4,No
+10727,67,Female,Asthma,Former,31.2,150,188.0,100.0,6,No
+10728,23,Male,Asthma,Never,26.7,114,147.0,71.0,5,No
+10729,51,Female,Healthy,Never,30.2,128,238.0,127.0,3,No
+10730,62,Female,Hypertension,Former,18.0,143,191.0,108.0,6,Yes
+10731,67,Female,Diabetes,Never,30.6,154,249.0,117.0,5,No
+10732,46,Male,Arthritis,Former,27.4,140,218.0,99.0,4,No
+10733,80,Female,Diabetes,Never,29.5,135,165.0,92.0,6,Yes
+10734,70,Male,Arthritis,Current,28.3,143,194.0,104.0,7,Yes
+10735,32,Female,Diabetes,Former,21.8,141,160.0,118.0,3,No
+10736,63,Female,Hypertension,Current,19.3,150,203.0,118.0,4,No
+10737,67,Male,Diabetes,Never,23.1,134,197.0,98.0,5,Yes
+10738,40,Male,Asthma,Never,29.2,159,253.0,90.0,5,Yes
+10739,68,Male,Hypertension,Never,29.8,152,173.0,122.0,6,No
+10740,79,Male,Hypertension,Never,19.9,163,212.0,86.0,6,Yes
+10741,73,Male,Healthy,Never,21.8,158,217.0,111.0,5,No
+10742,69,Female,Diabetes,Never,23.0,147,200.0,131.0,4,Yes
+10743,61,Male,Asthma,Never,24.8,138,197.0,131.0,3,No
+10744,36,Male,Hypertension,Never,20.0,156,153.0,91.0,3,No
+10745,72,Female,Diabetes,Never,19.7,164,204.0,128.0,7,Yes
+10746,42,Female,Diabetes,Never,22.6,143,195.0,134.0,6,No
+10747,54,Male,Arthritis,Never,26.9,148,198.0,80.0,4,Yes
+10748,39,Female,Diabetes,Former,20.8,121,194.0,116.0,3,No
+10749,39,Male,Healthy,Never,25.9,146,214.0,88.0,4,Yes
+10750,28,Female,Healthy,Never,31.6,116,196.0,90.0,4,No
+10751,83,Female,Hypertension,Never,20.3,165,211.0,125.0,5,No
+10752,28,Female,Hypertension,Former,25.5,109,145.0,101.0,3,No
+10753,23,Female,Hypertension,Never,31.4,102,156.0,78.0,3,No
+10754,81,Female,Arthritis,Former,24.5,162,202.0,113.0,4,Yes
+10755,55,Female,Hypertension,Current,23.7,135,206.0,125.0,4,No
+10756,47,Male,Healthy,Never,32.1,115,174.0,85.0,5,No
+10757,68,Male,Healthy,Current,25.0,156,186.0,108.0,4,No
+10758,44,Female,Healthy,Former,31.8,159,155.0,94.0,3,No
+10759,26,Female,Heart Disease,Never,28.6,139,142.0,90.0,4,No
+10760,67,Male,Healthy,Never,24.9,147,193.0,79.0,5,No
+10761,29,Male,Hypertension,Former,28.8,128,139.0,115.0,4,No
+10762,55,Male,Asthma,Current,28.0,152,176.0,89.0,5,No
+10763,82,Male,Diabetes,Never,31.4,171,199.0,151.0,5,Yes
+10764,81,Female,Healthy,Never,23.9,154,176.0,100.0,5,No
+10765,42,Female,Heart Disease,Never,26.7,134,201.0,87.0,6,No
+10766,71,Female,Healthy,Never,26.2,155,219.0,126.0,7,Yes
+10767,59,Male,Hypertension,Former,29.9,153,180.0,119.0,7,No
+10768,50,Male,Healthy,Never,21.6,138,177.0,103.0,3,Yes
+10769,27,Male,Heart Disease,Former,31.4,123,195.0,104.0,3,No
+10770,43,Male,Heart Disease,Current,28.7,150,185.0,92.0,6,No
+10771,62,Male,Healthy,Former,20.2,160,177.0,104.0,3,No
+10772,85,Male,Asthma,Former,32.3,166,239.0,101.0,5,Yes
+10773,18,Female,Asthma,Former,37.2,138,188.0,103.0,4,No
+10774,66,Female,Arthritis,Current,31.3,145,221.0,94.0,6,No
+10775,75,Female,Hypertension,Current,33.3,174,235.0,132.0,6,Yes
+10776,82,Male,Diabetes,Never,26.9,165,161.0,130.0,4,Yes
+10777,46,Female,Diabetes,Never,18.5,173,217.0,122.0,7,No
+10778,26,Male,Hypertension,Never,17.6,113,181.0,103.0,5,No
+10779,36,Female,Healthy,Current,27.7,123,212.0,95.0,3,No
+10780,75,Male,Arthritis,Former,23.7,159,213.0,103.0,5,Yes
+10781,77,Male,Diabetes,Never,22.1,160,206.0,132.0,5,No
+10782,61,Female,Asthma,Never,26.2,167,188.0,118.0,5,Yes
+10783,26,Male,Asthma,Never,29.5,117,181.0,80.0,5,No
+10784,26,Male,Arthritis,Former,19.5,134,164.0,89.0,3,No
+10785,50,Female,Healthy,Never,24.3,152,208.0,100.0,3,Yes
+10786,58,Female,Healthy,Never,33.7,152,155.0,116.0,3,Yes
+10787,20,Male,Asthma,Current,21.3,110,164.0,87.0,7,No
+10788,64,Male,Diabetes,Former,30.7,163,246.0,157.0,6,Yes
+10789,55,Female,Asthma,Never,24.2,156,176.0,99.0,4,No
+10790,18,Male,Heart Disease,Never,29.1,126,171.0,84.0,3,No
+10791,24,Female,Asthma,Current,31.8,125,158.0,88.0,4,No
+10792,48,Male,Arthritis,Former,30.1,140,194.0,78.0,3,No
+10793,67,Male,Heart Disease,Former,30.9,149,191.0,89.0,5,No
+10794,74,Female,Diabetes,Never,21.0,161,199.0,123.0,6,No
+10795,47,Female,Diabetes,Never,31.8,137,206.0,141.0,4,No
+10796,38,Male,Asthma,Never,22.4,122,163.0,95.0,3,No
+10797,83,Female,Hypertension,Former,27.7,150,228.0,103.0,9,No
+10798,49,Female,Hypertension,Never,27.7,132,207.0,119.0,5,Yes
+10799,39,Female,Healthy,Never,28.8,135,206.0,120.0,5,No
+10800,48,Female,Asthma,Former,28.1,137,190.0,119.0,4,No
+10801,18,Female,Diabetes,Current,22.4,122,253.0,99.0,4,No
+10802,38,Male,Heart Disease,Former,20.0,137,215.0,87.0,3,Yes
+10803,53,Male,Healthy,Never,30.7,134,197.0,130.0,4,No
+10804,80,Male,Diabetes,Never,27.4,174,186.0,138.0,6,Yes
+10805,68,Female,Healthy,Never,32.0,147,197.0,102.0,4,No
+10806,71,Female,Healthy,Never,26.3,147,235.0,118.0,5,Yes
+10807,55,Male,Arthritis,Never,19.8,147,232.0,117.0,4,Yes
+10808,25,Male,Arthritis,Never,31.1,103,207.0,82.0,5,No
+10809,44,Male,Hypertension,Former,24.7,129,202.0,101.0,4,No
+10810,85,Female,Healthy,Current,28.1,171,189.0,127.0,4,Yes
+10811,21,Female,Asthma,Current,23.4,102,189.0,71.0,3,No
+10812,77,Male,Healthy,Never,34.4,168,175.0,109.0,5,Yes
+10813,64,Female,Heart Disease,Never,22.3,164,171.0,87.0,8,No
+10814,37,Male,Hypertension,Never,24.9,129,185.0,79.0,4,No
+10815,70,Male,Hypertension,Never,27.0,157,213.0,97.0,4,Yes
+10816,74,Male,Arthritis,Never,21.3,166,225.0,116.0,6,No
+10817,20,Female,Heart Disease,Never,28.1,115,190.0,84.0,2,No
+10818,25,Male,Hypertension,Former,34.2,135,184.0,80.0,4,No
+10819,63,Male,Healthy,Never,24.1,140,172.0,105.0,3,No
+10820,85,Male,Healthy,Current,28.4,155,217.0,93.0,3,No
+10821,19,Male,Heart Disease,Never,16.0,111,141.0,96.0,2,No
+10822,63,Female,Asthma,Never,26.3,151,148.0,122.0,5,No
+10823,27,Male,Hypertension,Never,25.0,139,190.0,90.0,5,No
+10824,62,Male,Healthy,Never,22.6,144,177.0,100.0,6,Yes
+10825,60,Male,Diabetes,Never,31.7,131,215.0,133.0,6,Yes
+10826,24,Female,Healthy,Current,24.9,111,206.0,58.0,4,No
+10827,64,Male,Asthma,Never,25.6,152,182.0,113.0,4,No
+10828,78,Female,Heart Disease,Never,24.7,177,230.0,159.0,4,Yes
+10829,76,Male,Diabetes,Never,17.3,159,189.0,131.0,5,Yes
+10830,19,Male,Hypertension,Never,21.1,118,123.0,87.0,3,No
+10831,34,Female,Healthy,Former,31.1,138,180.0,106.0,5,No
+10832,34,Female,Heart Disease,Never,16.4,126,176.0,120.0,6,No
+10833,48,Female,Heart Disease,Former,22.8,134,186.0,114.0,5,No
+10834,27,Female,Healthy,Never,24.6,114,220.0,57.0,2,No
+10835,76,Female,Healthy,Never,34.9,171,168.0,118.0,4,Yes
+10836,70,Male,Healthy,Former,30.2,123,210.0,148.0,4,Yes
+10837,72,Male,Diabetes,Current,23.8,161,187.0,141.0,5,Yes
+10838,31,Female,Arthritis,Never,32.8,122,197.0,74.0,5,No
+10839,18,Male,Healthy,Never,22.9,115,174.0,93.0,3,No
+10840,79,Female,Asthma,Never,31.3,176,215.0,89.0,6,Yes
+10841,37,Male,Hypertension,Never,20.0,125,156.0,115.0,5,Yes
+10842,62,Female,Healthy,Never,31.7,139,177.0,88.0,6,Yes
+10843,79,Female,Heart Disease,Former,24.6,156,239.0,111.0,5,Yes
+10844,20,Female,Heart Disease,Never,21.6,125,220.0,75.0,2,No
+10845,18,Female,Healthy,Former,25.5,114,178.0,80.0,4,Yes
+10846,18,Male,Arthritis,Never,27.8,102,145.0,112.0,3,No
+10847,28,Male,Asthma,Current,24.1,116,190.0,93.0,4,Yes
+10848,21,Male,Asthma,Current,29.2,135,236.0,80.0,2,No
+10849,73,Male,Asthma,Never,23.7,154,205.0,89.0,4,Yes
+10850,59,Male,Hypertension,Never,29.5,152,228.0,73.0,5,No
+10851,84,Female,Healthy,Never,28.6,157,192.0,91.0,3,No
+10852,72,Female,Healthy,Current,26.2,145,210.0,109.0,5,No
+10853,83,Male,Diabetes,Never,24.4,178,224.0,151.0,4,Yes
+10854,34,Male,Diabetes,Never,27.2,127,187.0,109.0,6,No
+10855,37,Male,Healthy,Never,29.1,126,161.0,120.0,3,No
+10856,75,Female,Hypertension,Former,36.4,169,184.0,97.0,4,Yes
+10857,34,Female,Heart Disease,Never,31.0,121,211.0,90.0,5,No
+10858,21,Male,Asthma,Never,31.2,114,197.0,72.0,4,No
+10859,63,Female,Arthritis,Current,41.3,147,241.0,120.0,3,Yes
+10860,72,Male,Hypertension,Never,29.0,155,245.0,141.0,5,Yes
+10861,83,Male,Arthritis,Current,28.8,162,221.0,83.0,5,Yes
+10862,81,Female,Asthma,Never,29.9,181,200.0,105.0,5,Yes
+10863,26,Male,Arthritis,Never,21.7,128,204.0,111.0,3,No
+10864,70,Male,Hypertension,Current,24.4,127,227.0,83.0,6,Yes
+10865,75,Female,Asthma,Former,24.1,158,180.0,117.0,5,Yes
+10866,65,Male,Heart Disease,Former,29.6,149,182.0,124.0,5,Yes
+10867,73,Female,Diabetes,Never,25.7,154,214.0,133.0,4,Yes
+10868,74,Female,Hypertension,Never,27.2,159,199.0,117.0,6,No
+10869,48,Female,Diabetes,Never,31.7,137,186.0,151.0,5,No
+10870,20,Male,Diabetes,Never,30.6,120,194.0,144.0,3,No
+10871,49,Male,Hypertension,Never,25.7,147,205.0,98.0,3,No
+10872,31,Male,Healthy,Never,23.3,121,207.0,84.0,4,No
+10873,25,Male,Asthma,Never,31.9,113,125.0,76.0,4,No
+10874,26,Female,Healthy,Never,30.2,157,178.0,107.0,4,Yes
+10875,65,Male,Healthy,Never,18.8,140,214.0,83.0,5,No
+10876,52,Female,Hypertension,Never,25.0,143,152.0,96.0,5,No
+10877,54,Male,Arthritis,Current,27.3,125,183.0,103.0,5,No
+10878,68,Male,Healthy,Former,30.2,151,179.0,98.0,3,No
+10879,55,Male,Arthritis,Never,30.9,132,191.0,106.0,7,No
+10880,60,Male,Asthma,Former,27.9,140,233.0,144.0,3,Yes
+10881,23,Male,Asthma,Current,29.3,134,227.0,88.0,5,No
+10882,75,Male,Hypertension,Never,26.8,162,184.0,101.0,4,No
+10883,48,Female,Heart Disease,Never,23.3,144,209.0,115.0,4,No
+10884,28,Male,Healthy,Never,25.2,106,187.0,96.0,2,Yes
+10885,73,Male,Healthy,Never,26.6,173,212.0,131.0,5,Yes
+10886,67,Male,Hypertension,Former,26.3,138,208.0,108.0,4,No
+10887,21,Male,Arthritis,Current,17.4,138,185.0,85.0,2,No
+10888,31,Female,Diabetes,Never,24.6,138,216.0,88.0,5,No
+10889,19,Female,Healthy,Former,26.8,126,194.0,63.0,3,No
+10890,36,Female,Hypertension,Never,25.1,123,153.0,65.0,3,No
+10891,24,Female,Healthy,Former,25.3,125,190.0,96.0,3,No
+10892,66,Female,Healthy,Former,28.8,144,219.0,83.0,3,No
+10893,53,Male,Hypertension,Never,21.3,143,197.0,121.0,4,Yes
+10894,84,Male,Hypertension,Never,18.7,159,237.0,112.0,5,Yes
+10895,68,Male,Healthy,Former,24.8,128,204.0,102.0,3,No
+10896,59,Male,Hypertension,Current,30.2,159,207.0,89.0,3,Yes
+10897,52,Male,Heart Disease,Never,34.6,139,202.0,110.0,4,No
+10898,21,Male,Healthy,Never,30.3,116,120.0,76.0,2,No
+10899,22,Male,Heart Disease,Never,19.5,115,177.0,74.0,4,No
+10900,59,Female,Asthma,Never,25.4,149,177.0,122.0,3,No
+10901,18,Male,Asthma,Former,27.7,109,138.0,94.0,2,No
+10902,20,Male,Hypertension,Former,27.4,98,202.0,85.0,2,No
+10903,32,Male,Healthy,Former,29.1,132,188.0,103.0,3,Yes
+10904,78,Male,Diabetes,Current,22.1,162,214.0,133.0,7,Yes
+10905,49,Female,Diabetes,Former,26.8,136,173.0,129.0,6,No
+10906,66,Female,Diabetes,Never,28.5,136,205.0,116.0,4,No
+10907,45,Female,Healthy,Never,30.5,137,208.0,131.0,3,No
+10908,29,Female,Hypertension,Never,22.6,112,154.0,83.0,4,No
+10909,43,Female,Healthy,Never,24.8,123,183.0,122.0,4,No
+10910,24,Male,Arthritis,Current,16.0,115,200.0,87.0,4,No
+10911,70,Female,Healthy,Former,23.5,161,154.0,119.0,5,Yes
+10912,30,Male,Healthy,Current,24.0,123,182.0,104.0,3,No
+10913,43,Male,Healthy,Never,21.6,130,173.0,115.0,4,Yes
+10914,84,Male,Healthy,Never,27.3,182,206.0,98.0,6,Yes
+10915,58,Female,Hypertension,Never,26.2,150,181.0,120.0,5,Yes
+10916,49,Female,Healthy,Never,16.0,142,190.0,129.0,3,No
+10917,54,Male,Heart Disease,Never,27.5,137,246.0,97.0,3,Yes
+10918,71,Male,Heart Disease,Never,22.0,145,203.0,107.0,4,No
+10919,35,Male,Healthy,Never,28.8,106,185.0,86.0,2,Yes
+10920,61,Female,Healthy,Current,20.3,156,252.0,98.0,4,No
+10921,77,Female,Arthritis,Never,26.6,161,192.0,136.0,5,No
+10922,56,Female,Heart Disease,Never,25.1,141,245.0,86.0,3,Yes
+10923,48,Male,Asthma,Former,28.0,136,186.0,84.0,4,No
+10924,27,Male,Asthma,Never,27.1,133,215.0,117.0,6,No
+10925,34,Female,Asthma,Current,25.3,112,204.0,104.0,3,No
+10926,82,Female,Asthma,Former,19.1,152,216.0,145.0,4,No
+10927,54,Male,Hypertension,Never,19.4,131,189.0,94.0,7,No
+10928,38,Male,Hypertension,Former,23.7,153,165.0,97.0,6,No
+10929,46,Male,Healthy,Former,26.5,146,187.0,88.0,3,No
+10930,57,Female,Asthma,Former,23.6,119,214.0,104.0,4,Yes
+10931,54,Male,Healthy,Former,29.5,125,190.0,73.0,4,No
+10932,65,Female,Arthritis,Former,25.2,147,190.0,116.0,6,Yes
+10933,35,Male,Hypertension,Former,21.9,127,172.0,99.0,6,No
+10934,62,Female,Hypertension,Never,25.2,134,219.0,103.0,5,No
+10935,48,Female,Diabetes,Former,27.6,159,216.0,117.0,5,No
+10936,81,Male,Healthy,Current,28.1,162,201.0,96.0,4,No
+10937,28,Male,Diabetes,Former,35.5,131,157.0,127.0,4,Yes
+10938,28,Female,Heart Disease,Former,23.3,118,192.0,73.0,3,No
+10939,49,Male,Healthy,Never,26.1,146,224.0,107.0,4,No
+10940,52,Female,Healthy,Former,28.5,136,216.0,133.0,10,No
+10941,64,Female,Diabetes,Current,26.4,145,176.0,152.0,8,Yes
+10942,45,Female,Hypertension,Never,24.1,145,178.0,74.0,4,No
+10943,80,Male,Hypertension,Never,19.1,142,185.0,101.0,9,No
+10944,50,Female,Hypertension,Never,24.0,159,181.0,106.0,4,No
+10945,26,Male,Diabetes,Never,21.3,126,210.0,114.0,4,No
+10946,26,Male,Heart Disease,Never,18.2,138,148.0,69.0,4,No
+10947,84,Female,Healthy,Never,22.7,148,171.0,118.0,3,No
+10948,27,Female,Heart Disease,Never,21.5,115,163.0,91.0,5,No
+10949,82,Female,Arthritis,Former,29.3,146,215.0,141.0,5,Yes
+10950,36,Female,Diabetes,Former,29.4,133,193.0,115.0,3,No
+10951,24,Male,Healthy,Former,22.2,124,181.0,109.0,2,No
+10952,38,Male,Arthritis,Former,25.3,126,208.0,75.0,6,No
+10953,59,Female,Healthy,Former,17.6,133,151.0,86.0,6,No
+10954,47,Female,Healthy,Former,24.1,123,214.0,110.0,2,No
+10955,71,Male,Diabetes,Former,28.4,151,194.0,148.0,4,Yes
+10956,59,Male,Hypertension,Never,30.5,141,211.0,87.0,5,No
+10957,45,Female,Diabetes,Former,23.1,128,152.0,122.0,5,No
+10958,61,Female,Asthma,Never,31.5,163,195.0,81.0,3,No
+10959,84,Male,Healthy,Never,19.2,159,215.0,109.0,3,Yes
+10960,46,Male,Asthma,Never,20.5,150,213.0,111.0,5,No
+10961,28,Male,Healthy,Current,29.9,119,144.0,85.0,2,No
+10962,45,Female,Heart Disease,Former,34.5,139,195.0,94.0,4,No
+10963,75,Female,Diabetes,Never,28.9,154,178.0,114.0,5,Yes
+10964,32,Female,Diabetes,Former,26.3,109,188.0,107.0,6,No
+10965,82,Male,Arthritis,Never,16.0,175,227.0,139.0,5,Yes
+10966,58,Female,Arthritis,Former,16.8,142,224.0,103.0,4,No
+10967,58,Male,Asthma,Former,27.1,152,180.0,86.0,4,Yes
+10968,39,Male,Diabetes,Former,24.8,124,203.0,115.0,6,No
+10969,80,Female,Healthy,Former,21.2,156,240.0,84.0,3,Yes
+10970,20,Female,Hypertension,Never,26.8,113,129.0,73.0,3,No
+10971,38,Female,Healthy,Never,27.1,145,194.0,117.0,2,No
+10972,46,Male,Diabetes,Current,31.0,140,217.0,120.0,5,Yes
+10973,50,Male,Hypertension,Former,27.2,145,181.0,130.0,6,Yes
+10974,50,Male,Heart Disease,Never,32.4,154,168.0,98.0,4,No
+10975,28,Male,Heart Disease,Never,26.5,138,206.0,91.0,3,No
+10976,33,Female,Heart Disease,Never,25.9,137,158.0,104.0,4,Yes
+10977,24,Female,Asthma,Never,31.6,107,166.0,55.0,2,No
+10978,56,Female,Healthy,Never,21.8,135,190.0,105.0,3,No
+10979,41,Male,Heart Disease,Never,40.0,122,209.0,96.0,5,Yes
+10980,56,Female,Asthma,Current,28.3,151,185.0,125.0,4,No
+10981,58,Female,Asthma,Never,28.3,146,176.0,118.0,5,No
+10982,65,Male,Hypertension,Never,29.0,135,200.0,87.0,4,Yes
+10983,55,Female,Arthritis,Never,35.5,140,215.0,121.0,4,No
+10984,62,Male,Diabetes,Never,30.3,130,250.0,124.0,4,Yes
+10985,57,Male,Arthritis,Former,18.8,143,156.0,87.0,4,No
+10986,62,Male,Hypertension,Never,33.2,130,203.0,107.0,4,Yes
+10987,59,Male,Healthy,Former,24.9,150,167.0,99.0,5,No
+10988,39,Female,Asthma,Former,27.0,136,205.0,120.0,4,No
+10989,34,Male,Healthy,Never,20.4,150,155.0,99.0,3,No
+10990,71,Male,Asthma,Former,29.0,161,185.0,110.0,7,Yes
+10991,41,Male,Hypertension,Current,23.4,131,177.0,111.0,4,No
+10992,55,Female,Healthy,Never,27.0,151,189.0,119.0,4,No
+10993,31,Female,Arthritis,Never,25.1,112,183.0,105.0,6,No
+10994,47,Female,Healthy,Current,35.7,127,206.0,121.0,2,Yes
+10995,54,Male,Asthma,Current,36.0,145,199.0,111.0,5,No
+10996,60,Female,Arthritis,Never,26.7,121,162.0,106.0,3,No
+10997,53,Male,Healthy,Never,26.8,140,207.0,120.0,3,No
+10998,42,Female,Arthritis,Never,24.7,123,181.0,95.0,6,No
+10999,83,Male,Diabetes,Former,31.8,161,237.0,136.0,6,Yes
+11000,52,Male,Arthritis,Never,24.9,128,172.0,128.0,4,No

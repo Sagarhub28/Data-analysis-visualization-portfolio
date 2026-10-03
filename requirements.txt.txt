@@ -1,0 +1,11 @@
+```text
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+jupyter
+notebook
+openpyxl
+python-pptx
+reportlab
